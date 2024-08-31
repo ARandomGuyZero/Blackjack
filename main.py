@@ -2,7 +2,7 @@
 Blackjack Game
 
 Author: Alan
-Date: August 2024
+Date: August 29th 2024
 
 This program simulates a simple game of Blackjack between the user and the computer.
 """
